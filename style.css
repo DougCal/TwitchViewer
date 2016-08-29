@@ -1,0 +1,17 @@
+body{
+  margin-top: 30px;
+}
+
+.make-grey{
+  background-color: #8c8c8c;
+}
+
+@font-face{ 
+  font-family: "Dimitri Swank";
+  src: url("DIMIS___.woff2"),
+       url("DIMIS___.woff"),
+       url("DIMIS___.ttf"),
+       url("DIMIS___.otf"),
+       url("DIMIS___.eot"),
+       url("DIMIS___.svg");      
+}
